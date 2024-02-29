@@ -5,6 +5,28 @@
 ---
 Atliq Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they did not get enough insights to make quick and smart data-informed decisions. So that find out the insights from the given database.
 
+## Data Source:
+---
+Data Source
+we used one database, and that database contains some tables which are explored below.
+
+Extracted CSV file from the database.[File]()
+- ### gdb0041
+  
+    - **dim_customer** 
+    - **dim_product** 
+    - **dim_market** 
+    - **fact_sales_monthly** 
+    - **fact_forecast_monthly** 
+      
+- ### gdb056
+    - **freight_cost** 
+    - **gross_price** 
+    - **manufacturing_cost** 
+    - **pre_invoice_deduction** 
+    - **post_invoice_deduction** 
+
+
 ## Task:
 ---
 - Use MySQL database for storing the records.
