@@ -24,7 +24,7 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
     - **fact_pre_invoice_deduction** 
     - **fact_post_invoice_deduction**
 
-### Overview of above using [Metadata File](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware/blob/main/AtliQ%20Harwar%20-Metadata.txt)
+### Depth overview of above table using [Metadata File](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware/blob/main/AtliQ%20Harwar%20-Metadata.txt)
 
 ## The below image shows the relationships among the tables.
 
