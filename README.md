@@ -22,8 +22,10 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
     - **fact_gross_price** 
     - **fact_manufacturing_cost** 
     - **fact_pre_invoice_deduction** 
-    - **fact_post_invoice_deduction** 
-**The below image shows the relationships among the tables** 
+    - **fact_post_invoice_deduction**
+      
+## The below image shows the relationships among the tables.
+
 ![Data Modelling](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware/assets/117892039/ed0d5224-a655-48cd-8af9-cf30ab870787)
 
 ## Task:
