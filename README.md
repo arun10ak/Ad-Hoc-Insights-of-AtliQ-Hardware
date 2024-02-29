@@ -1,1 +1,1 @@
-# Ad-Hoc-Insights-of-AtliQ-Hardware---
+# Ad-Hoc-Insights-of-AtliQ-Hardware
