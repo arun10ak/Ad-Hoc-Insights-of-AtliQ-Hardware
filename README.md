@@ -10,7 +10,7 @@ Atliq Hardware (imaginary company) is one of the leading computer hardware produ
 Data Source
 we used one database, and that database contains some tables which are explored below.
 
-Extracted CSV file from the database.[File]()
+Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware/tree/main/Dataset)
 - ### gdb0041
   
     - **dim_customer** 
@@ -18,13 +18,11 @@ Extracted CSV file from the database.[File]()
     - **dim_market** 
     - **fact_sales_monthly** 
     - **fact_forecast_monthly** 
-      
-- ### gdb056
-    - **freight_cost** 
-    - **gross_price** 
-    - **manufacturing_cost** 
-    - **pre_invoice_deduction** 
-    - **post_invoice_deduction** 
+    - **fact_freight_cost** 
+    - **fact_gross_price** 
+    - **fact_manufacturing_cost** 
+    - **fact_pre_invoice_deduction** 
+    - **fact_post_invoice_deduction** 
 
 
 ## Task:
