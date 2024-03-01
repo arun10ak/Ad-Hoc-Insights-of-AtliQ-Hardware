@@ -41,7 +41,7 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
 
 - **Ad Hoc** [Question]()
 - **Retrieved** [Query]()
-- **Retrieved** [CSV]()
+- **Retrieved** [CSV](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware-SQL-/tree/main/Retrieved%20CSV)
 - **Solution** [File]()
 
 ## Major Insights: 
