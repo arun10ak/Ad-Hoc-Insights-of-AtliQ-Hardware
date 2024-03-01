@@ -24,7 +24,7 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
     - **fact_pre_invoice_deduction** 
     - **fact_post_invoice_deduction**
 
-### Depth overview of above table using [Metadata File](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware/blob/main/AtliQ%20Harwar%20-Metadata.txt)
+### Depth overview of the above table using [Metadata File](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware/blob/main/AtliQ%20Harwar%20-Metadata.txt)
 
 ## The below image shows the relationships among the tables.
 
@@ -33,10 +33,17 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
 ## Task:
 ---
 - Use MySQL database for storing the records.
-- Uses Advanced SQL concepts like Joins, Subquery, CTEs, and Window functions to write complex queries to find out insight from the records.
+- Uses Advanced SQL concepts like Joins, Subquery, CTEs, and Window functions to write complex queries to find insight from the records.
 - For automation use advanced stuff like Stored Procedures and Views.
 
-## Major Insights:
+## Ad-Hoc question and answer with query and CSV file generated for the  questions as mentioned below.
+---
+-- **Ad Hoc Question** [File]()
+-- **Retrieved Query** [File]()
+-- **Retrieved CSV** [File]()
+-- **Solution** [File]()
+
+## Major Insights: 
 ---
 - Croma operated only in the Indian market.
 - Croma India sales increased by 180 % in the fiscal year 2021.
