@@ -38,10 +38,11 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
 
 ## Ad-Hoc question and answer with query and CSV file generated for the  questions as mentioned below.
 ---
--- **Ad Hoc Question** [File]()
--- **Retrieved Query** [File]()
--- **Retrieved CSV** [File]()
--- **Solution** [File]()
+
+- **Ad Hoc Question** [File]()
+- **Retrieved Query** [File]()
+- **Retrieved CSV** [File]()
+- **Solution** [File]()
 
 ## Major Insights: 
 ---
