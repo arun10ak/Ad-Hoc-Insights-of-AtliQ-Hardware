@@ -42,7 +42,7 @@ Extracted CSV file from the database.[File](https://github.com/arun10ak/Ad-Hoc-I
 - **Ad Hoc** [Question]()
 - **Retrieved** [Query](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware-SQL-/tree/main/Retrieved%20Query)
 - **Retrieved** [CSV](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware-SQL-/tree/main/Retrieved%20CSV)
-- **Solution** [File]()
+- **Solution** [File](https://github.com/arun10ak/Ad-Hoc-Insights-of-AtliQ-Hardware-SQL/blob/main/SQL%20AD-HOC%20Solution.pdf)
 
 ## Major Insights: 
 ---
